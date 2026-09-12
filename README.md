@@ -1,2 +1,2 @@
 # Proyecto-Final-Data-Science
-El proyecto crea un "semáforo financiero" para evaluar empresas en EE. UU. respecto a su industria. Combina clustering (que agrupa empresas similares) y clasificación (que asigna si está sana o débil).  Sirve como un filtro rápido de datos (screening) para saber dónde investigar más a fondo, no como recomendación de inversión.
+El proyecto crea un "semáforo financiero" para evaluar empresas respecto a su industria. Se buscara clasificar y agrupar según industrias, comparándolas con las medias de su grupo y destacando aquellas que presenten ratios Financieros-Contables favorables.
