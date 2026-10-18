@@ -1,6 +1,6 @@
 # Grupo 16 - Proyecto Data Science
 ## Integrantes: Martín Nieto, Alejandra Melillo, Emanuel Cinel
-## Semáforo Financiero: clasificación de empresas según sus ratios contables-financieros
+## Predicción de variación anual: clasificación de empresas según sus ratios contables-financieros
 
 **Objetivo:** Predicción de la dirección anual del precio de acciones a partir de indicadores financiero-contables
 Contenido: Parte I, análisis exploratorio (secciones 0 a 9). Parte II, modelo supervisado (sección 10). Se ejecuta de arriba hacia abajo: la Parte I genera financial_data_unificado.csv, que la Parte II vuelve a leer.
