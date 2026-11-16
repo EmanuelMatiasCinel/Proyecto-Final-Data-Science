@@ -11,7 +11,7 @@ Parte II, modelo supervisado (sección 10).
 
 Parte III, modelo no supervisado (Sección 11).
 
-Se ejecuta de arriba hacia abajo: la Parte I genera financial_data_unificado.csv, que la Parte II vuelve a leer.
+Se ejecuta de arriba hacia abajo: la Parte I genera financial_data_unificado.csv, que la Parte II y Parte III vuelven a leer.
 
 **Fuente de datos:** "200+ Financial Indicators of US stocks (2014-2018)", Kaggle, usuario Nicolas Carbone.
 URL: https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018
