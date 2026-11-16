@@ -9,7 +9,7 @@ Parte I, análisis exploratorio (secciones 0 a 9).
 
 Parte II, modelo supervisado (sección 10). 
 
-Parte III, modelo no supervisado.
+Parte III, modelo no supervisado (Sección 11).
 
 Se ejecuta de arriba hacia abajo: la Parte I genera financial_data_unificado.csv, que la Parte II vuelve a leer.
 
