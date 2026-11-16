@@ -4,6 +4,7 @@
 
 **Objetivo:** Predicción de la dirección anual del precio de acciones a partir de indicadores financiero-contables
 Contenido: 
+
 Parte I, análisis exploratorio (secciones 0 a 9). 
 
 Parte II, modelo supervisado (sección 10). 
